@@ -1,0 +1,12 @@
+bin/*
+include/*
+lib/*
+pip-selfcheck.json
+man/*
+share/*
+*.sock
+static/*
+var/logs/*
+db.*
+mysite/__pycache__/*
+

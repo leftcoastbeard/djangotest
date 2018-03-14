@@ -8,5 +8,5 @@ share/*
 static/*
 var/logs/*
 db.*
-mysite/__pycache__/*
+**/__pycache__/*
 

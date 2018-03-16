@@ -9,4 +9,5 @@ static/*
 var/logs/*
 db.*
 **/__pycache__/*
+fixown
 
